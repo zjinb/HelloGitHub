@@ -1,0 +1,3 @@
+[submodule "HelloSubmodule"]
+	path = HelloSubmodule
+	url = git@github.com:zjinb/HelloSubmodule.git
